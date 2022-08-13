@@ -85,6 +85,12 @@ body{
     /* overflow: hidden; */
     margin-bottom: 5rem;
   }
+  .back-card{
+    width: 90%;
+    height: 68%;
+    position: absolute;
+    z-index: -1000;
+  }
 
   .atom-spinner .spinner-inner {
     position: relative;
