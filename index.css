@@ -44,12 +44,10 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: nowrap;
-    border: 3px ridge #00ff00;
     width: 90%;
     border-radius: 10px;
     margin-left: 20px;
     margin-bottom: 4rem;
-    box-shadow: 4px 4px 0 #080808;
 }
 .slide-container .slide{
     margin-bottom: 5rem;
@@ -87,9 +85,11 @@ body{
   }
   .back-card{
     width: 90%;
-    height: 90%;
+    height: 70%;
     position: absolute;
     z-index: -1000;
+    box-shadow: 4px 4px 0 #080808;
+    border-radius: 10px;
   }
 
   .atom-spinner .spinner-inner {
