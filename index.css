@@ -87,7 +87,7 @@ body{
   }
   .back-card{
     width: 90%;
-    height: 45%;
+    height: 90%;
     position: absolute;
     z-index: -1000;
   }
