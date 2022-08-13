@@ -23,6 +23,7 @@ body{
 }
 .title-Productos{
     margin-left: 8rem;
+    margin-bottom: 3rem;
 }
 .img-mano{
     width: 3rem;
@@ -32,7 +33,8 @@ body{
 .image .img-conTornillos{
     width: 60%;
     height: auto;
-    margin-left: 5rem;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
     padding: 0;
 }
 
@@ -58,11 +60,19 @@ body{
     justify-content: center;
     align-items: center;
 
+    margin-bottom: 2rem;
     margin-top: 5rem;
 }
 
 .slide-container .btn-movil{
-    margin-left: 8rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
+
+.img-diagrama{
+    width: 100%;
+    height: auto;
+    margin-bottom: 2rem;
 }
 
 .atom-spinner, .atom-spinner * {
