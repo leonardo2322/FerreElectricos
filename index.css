@@ -48,7 +48,7 @@ body{
     width: 90%;
     border-radius: 10px;
     margin-left: 20px;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
     box-shadow: 4px 4px 0 #080808;
 }
 .slide-container .slide{
@@ -87,7 +87,7 @@ body{
   }
   .back-card{
     width: 90%;
-    height: 68%;
+    height: 45%;
     position: absolute;
     z-index: -1000;
   }
