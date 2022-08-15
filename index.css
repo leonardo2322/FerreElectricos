@@ -1,6 +1,6 @@
 :root{
-    --colorPrimary:#c545cf;
-    --colorSecundary:#ff8c00;
+    --colorPrimary:#1d2951;
+    --colorSecundary:#ff1d5e;
 }
 
 *{
@@ -163,3 +163,8 @@ body{
       transform: rotateZ(360deg) rotateX(66deg) rotateZ(360deg);
     }
   }
+
+/* esta seccion de las rutas */
+.spanP{
+  margin-bottom: 3rem;
+}
