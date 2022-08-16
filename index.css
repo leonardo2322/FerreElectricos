@@ -177,3 +177,22 @@ body{
   border-radius: 20px;
   text-decoration: none;
 }
+.flecha{
+  position: fixed;
+  bottom: 20px;
+  left: 80%;
+  width: 3rem;
+  height: 2.6rem;
+  font-size: 3rem;
+  border-radius: 80%;
+  color: var(--colorPrimary);
+  background-color: var(--colorSecundary);
+  box-shadow: 2px 2px 0px #080808;
+
+}
+.containArrow{
+  border-radius: 50%;
+  height: auto;
+  text-align: center;
+
+}
