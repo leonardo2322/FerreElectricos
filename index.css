@@ -183,7 +183,7 @@ body{
   left: 80%;
   width: 3rem;
   height: 2.6rem;
-  font-size: 3rem;
+  font-size: 2.5rem;
   border-radius: 80%;
   color: var(--colorPrimary);
   background-color: var(--colorSecundary);
@@ -194,5 +194,6 @@ body{
   border-radius: 50%;
   height: auto;
   text-align: center;
+  justify-content: center;
 
 }

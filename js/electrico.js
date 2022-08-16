@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded',function () {
     
                     </div>
                  <div class="image">
-                    <img class="img-conTornillos" src="../img/images/TERMINAL HEMBRA AZUL.png"
+                    <img class="img-conTornillos" src="../img/e6535160f4225b2c23b5d602f0ad0390.jpg"
                     class="shoe" alt="Chunky">
                 </div>
             </div>
