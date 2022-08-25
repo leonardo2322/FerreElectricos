@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded',function () {
     
                     </div>
                  <div class="image">
-                    <img class="img-conTornillos" src="../img/branded_content-amazon-marcas_destacadas_459465014_142326902_1024x576.jpg"
+                    <img class="img-conTornillos" src="../img/Herramientas-de-electricidad-MasFerreteria.png"
                     class="shoe" alt="Chunky">
                 </div>
             </div>

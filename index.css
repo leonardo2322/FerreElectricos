@@ -31,11 +31,14 @@ body{
 }
 
 .image .img-conTornillos{
-    width: 60%;
-    height: 50%;
+    width: 50%;
+    height: 20%;
     margin-left: 3rem;
     margin-bottom: 2rem;
     padding: 0;
+}
+.img-conTornillos2{
+  height: 10rem;
 }
 
 .slide-container{
@@ -168,9 +171,7 @@ body{
 .spanP{
   margin-bottom: 3rem;
 }
-.img-conTornillos2{
-  height: 13rem;
-}
+
 .btn-back{
   background-color: #ff1d5e;
   padding: 1rem 3rem;
