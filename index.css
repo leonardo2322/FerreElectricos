@@ -29,7 +29,12 @@ body{
     width: 3rem;
     height: auto;
 }
-
+.image{
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
 .image .img-conTornillos{
     width: 50%;
     height: 20%;
@@ -197,4 +202,8 @@ body{
   text-align: center;
   justify-content: center;
 
+}
+.content span{
+  font-size: 25px;
+  font-weight: 400;
 }
