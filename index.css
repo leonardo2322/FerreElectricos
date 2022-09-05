@@ -31,13 +31,16 @@ body{
 }
 .image{
   width: 80%;
+  transform-origin: 100% 100%;
   align-items: center;
   justify-content: center;
   display: flex;
 }
 .image .img-conTornillos{
     width: 50%;
-    height: 20%;
+  transform: scale(80%);
+  object-fit: cover;
+  overflow: hidden;
     margin-left: 3rem;
     margin-bottom: 2rem;
     padding: 0;
@@ -206,4 +209,7 @@ body{
 .content span{
   font-size: 25px;
   font-weight: 400;
+}
+section,div{
+  margin-bottom: 2rem;
 }
