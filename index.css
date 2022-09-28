@@ -206,6 +206,17 @@ body{
   justify-content: center;
 
 }
+/* .containArrowacces{
+  border-radius: 50%;
+  height: auto;
+  width: 0.2rem;
+  font-size: 17px;
+  text-align: center;
+  justify-content: center;
+  position: fixed;
+  top: 90%;
+  right: 20px;
+} */
 .content span{
   font-size: 25px;
   font-weight: 400;
