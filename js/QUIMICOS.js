@@ -1,6 +1,6 @@
 const contFather = document.getElementById("Father")
 
-let datosDelJson = [{"id":556,"Productos":"SELLADOR ADESIVO DE SILICONA LOCTITE","seccion":"QUIMICOS","Precios":35000,"image":"../img/images/quimicos/SELLADOR ADESIVO DE SILICONA LOCTITE.png"},{"id":555,"Productos":"LUBRICANTE 5-56 CRC","seccion":"QUIMICOS","Precios":25000,"image":"../img/images/quimicos/LUBRICANTE5.png"},{"id":310,"Productos":"SOLDADURA EXOTERMICA","seccion":"QUIMICOS","Precios":36000,"image":"../img/images/quimicos/SOLDADURAEXOTERMICA.png"}]
+let datosDelJson = [{"id":556,"Productos":"SELLADOR ADESIVO DE SILICONA LOCTITE","seccion":"QUIMICOS","Precios":35000,"image":"../img/images/quimicos/SELLADOR ADESIVO DE SILICONA LOCTITE.png"},{"id":555,"Productos":"LUBRICANTE 5-56 CRC","seccion":"QUIMICOS","Precios":25000,"image":"../img/images/quimicos/LUBRICANTE5.png"},{"id":310,"Productos":"SOLDADURA EXOTERMICA","seccion":"QUIMICOS","Precios":36000,"image":"../img/images/quimicos/q310.jpg"}]
 
 document.addEventListener('DOMContentLoaded',function () {
     for (const iterator of datosDelJson) {
